@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:employee xmlns:ns2="com.lew.jaxb" id="1">
+    <name>Vimal Jaiswal</name>
+    <salary>50000.0</salary>
+</ns2:employee>
